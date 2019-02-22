@@ -1,0 +1,6 @@
+﻿  709Assignment.cpp
+c:\users\david shi\dropbox\2018 s1\mecheng 709\tim giffney\lab and assignment\709assignment\709assignment\709assignment.cpp(149): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\david shi\dropbox\2018 s1\mecheng 709\tim giffney\lab and assignment\709assignment\709assignment\709assignment.cpp(241): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\david shi\dropbox\2018 s1\mecheng 709\tim giffney\lab and assignment\709assignment\709assignment\709assignment.cpp(281): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+c:\users\david shi\dropbox\2018 s1\mecheng 709\tim giffney\lab and assignment\709assignment\709assignment\709assignment.cpp(58): warning C4715: 'translate': not all control paths return a value
+  709Assignment.vcxproj -> C:\Users\David Shi\Dropbox\2018 S1\MECHENG 709\Tim Giffney\Lab and Assignment\709Assignment\x64\Debug\709Assignment.exe
